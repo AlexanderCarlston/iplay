@@ -11,4 +11,3 @@ project repo for iPlay Servers app
 * As a user, I want to be able to disable plugins.
 * As a user, I want to be able to configure plugins.
 * As a user, I want to be able to adjust custom player slots.
-* As a user, I want to be able to 
