@@ -1,6 +1,6 @@
 {
   "name": "iPlay",
-  "version": "1.0.9",
+  "version": "1.0.0",
   "private": true,
   "author": "akveo",
   "scripts": {
@@ -8,9 +8,7 @@
     "eject": "react-native-scripts eject",
     "android": "react-native-scripts android",
     "ios": "react-native-scripts ios",
-    "test": "jest",
-    "lint": "eslint app/**/*",
-    "prepush": "npm run lint"
+    "test": "jest"
   },
   "dependencies": {
     "expo": "28.0.0",
