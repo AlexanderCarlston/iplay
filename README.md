@@ -29,3 +29,30 @@ React Native lets you build your app faster. Instead of recompiling, you can rel
 React Native combines smoothly with components written in Objective-C, Java, Kotlin, or Swift. It's simple to drop down to native code if you need to optimize a few aspects of your application. It's also easy to build part of your app in React Native, and part of your app using native code directly - that's how the Facebook app works.
 
 The focus of React Native is on developer efficiency across all the platforms you care about - learn once, write anywhere. Facebook uses React Native in multiple production apps and will continue investing in React Native.
+
+## Quick Overview
+
+Make sure you have Node v6 or later installed. No Xcode or Android Studio installation is required.
+
+```sh
+$ npm install -g expo-cli
+$ expo init my-app
+$ cd my-app/
+$ npm start
+```
+
+The `npm start` command starts the Expo CLI server. You can now run the project on your phone by using the Expo app.
+
+### Android
+
+- Install the [Expo](https://expo.io) app on your Android device.
+- Scan the QR code in your terminal from the Expo app to run the project on your phone.
+- Alternatively you can press 's' in the terminal and sign in with an Expo account, and sign in with the same account in the Expo app: your projects will automatically appear in the "Projects" tab.
+
+### iOS
+
+- Install the [Expo](https://expo.io) app on your iOS device.
+- Press 'e' in the terminal to send the app link to your email address or phone number. This link can be used to run your project from the Expo app.
+- Alternatively you can press 's' in the terminal and sign in with an Expo account, and sign in with the same account in the Expo app: your projects will automatically appear in the "Projects" tab.
+
+Expo CLI allows you to work with all of the [Components and APIs](https://facebook.github.io/react-native/docs/getting-started.html) in React Native, as well as the [JavaScript APIs](https://docs.expo.io/versions/latest/sdk/index.html) that the Expo app provides.
