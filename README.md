@@ -22,10 +22,10 @@ Plugins<br>
 
 ## iPlay prototype V1
 
-> Auth flow:
+Auth flow:
 ![Auth](./screenshots/auth_flow.png)
 <br>
-> Loading:
+Loading:
 <br>
 <img src="./screenshots/IMG_0142.PNG" width="300">
 <br>
