@@ -26,27 +26,27 @@ Auth flow:
 ![Auth](./screenshots/auth_flow.png)
 <br>
 Loading:
-
+<br>
 <img src="./screenshots/IMG_0142.PNG" width="300">
 <br>
 Log in:
-
+<br>
 <img src="./screenshots/IMG_0143.PNG" width="300">
 <br>
 Sign up:
-
+<br>
 <img src="./screenshots/IMG_0144.PNG" width="300">
 <br>
 Password Recovery:
-
+<br>
 <img src="./screenshots/IMG_0145.PNG" width="300">
 <br>
 Dashboard:
-
+<br>
 <img src="./screenshots/IMG_0141.PNG" width="300">
 <br>
 Side navbar:
-
+<br>
 <img src="./screenshots/IMG_0147.PNG" width="300">
 
 ## How React Native works
