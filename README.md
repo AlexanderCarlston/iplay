@@ -22,26 +22,26 @@ Plugins<br>
 
 ## iPlay prototype V1
 
-Auth flow:
+## Auth flow:
 ![Auth](./screenshots/auth_flow.png)
 <br>
-Loading:
+## Loading:
 <br>
 <img src="./screenshots/IMG_0142.PNG" width="300">
 <br>
-Log in:
+## Log in:
 <br>
 <img src="./screenshots/IMG_0143.PNG" width="300">
 <br>
-Sign up:
+## Sign up:
 <br>
 <img src="./screenshots/IMG_0144.PNG" width="300">
 <br>
-Password Recovery:
+## Password Recovery:
 <br>
 <img src="./screenshots/IMG_0145.PNG" width="300">
 <br>
-Dashboard:
+## Dashboard:
 <br>
 <img src="./screenshots/IMG_0141.PNG" width="300">
 <br>
@@ -52,7 +52,7 @@ Server Status<br>
 Server Settings<br>
 Plugins<br>
 <br>
-Side navbar:
+## Side navbar:
 <br>
 <img src="./screenshots/IMG_0147.PNG" width="300">
 
