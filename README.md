@@ -22,6 +22,8 @@ Plugins<br>
 
 ## iPlay prototype V1
 
+Auth flow:
+![Auth](./screenshots/auth_flow.png)
 
 ## How React Native works
 
@@ -41,8 +43,6 @@ Make sure you have Node v6 or later installed. No Xcode or Android Studio instal
 
 ```sh
 $ npm install -g expo-cli
-$ expo init my-app
-$ cd my-app/
 $ npm start
 ```
 
