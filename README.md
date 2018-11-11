@@ -44,6 +44,7 @@ Password Recovery:
 Dashboard:
 <br>
 <img src="./screenshots/IMG_0141.PNG" width="300">
+<br>
 These are the sections I think we will need, will need more:
 <br>
 User Account<br>
