@@ -2,7 +2,7 @@
   "name": "iPlay",
   "version": "1.0.0",
   "private": true,
-  "author": "akveo",
+  "author": "alexanderCarlston",
   "scripts": {
     "start": "react-native-scripts start",
     "eject": "react-native-scripts eject",
