@@ -25,6 +25,8 @@ Plugins<br>
 Auth flow:
 ![Auth](./screenshots/auth_flow.png)
 <br>
+<img src="./screenshots/IMG_0142.PN" width="48">
+<bv>
 Loading:
 ![SplashScreen](./screenshots/IMG_0142.PNG)
 <br>
