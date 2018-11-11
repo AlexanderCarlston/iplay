@@ -27,27 +27,27 @@ Auth flow:
 <br>
 Loading:
 <!-- ![SplashScreen](./screenshots/IMG_0142.PNG) -->
-<img src="./screenshots/IMG_0142.PNG" width="150">
+<img src="./screenshots/IMG_0142.PNG" width="300">
 <br>
 Log in:
 <!-- ![LogIn](./screenshots/IMG_0143.PNG) -->
-<img src="./screenshots/IMG_0143.PNG" width="150">
+<img src="./screenshots/IMG_0143.PNG" width="300">
 <br>
 Sign up:
 <!-- ![SignUp](./screenshots/IMG_0144.PNG) -->
-<img src="./screenshots/IMG_0144.PNG" width="150">
+<img src="./screenshots/IMG_0144.PNG" width="300">
 <br>
 Password Recovery:
 <!-- ![Password](./screenshots/IMG_0145.PNG) -->
-<img src="./screenshots/IMG_0145.PNG" width="150">
+<img src="./screenshots/IMG_0145.PNG" width="300">
 <br>
 Dashboard:
 <!-- ![Dashboard](./screenshots/IMG_0141.PNG) -->
-<img src="./screenshots/IMG_0141.PNG" width="150">
+<img src="./screenshots/IMG_0141.PNG" width="300">
 <br>
 Side navbar:
 <!-- ![SideNavbar](./screenshots/IMG_0147.PNG) -->
-<img src="./screenshots/IMG_0147.PNG" width="150">
+<img src="./screenshots/IMG_0147.PNG" width="300">
 
 ## How React Native works
 
