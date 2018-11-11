@@ -24,6 +24,24 @@ Plugins<br>
 
 Auth flow:
 ![Auth](./screenshots/auth_flow.png)
+<br>
+Loading:
+![SplashScreen](./screenshots/IMG_0142.PNG)
+<br>
+Log in:
+![LogIn](./screenshots/IMG_0143.PNG)
+<br>
+Sign up:
+![SignUp](./screenshots/IMG_0144.PNG)
+<br>
+Password Recovery:
+![Password](./screenshots/IMG_0145.PNG)
+<br>
+Dashboard:
+![Dashboard](./screenshots/IMG_0141.PNG)
+<br>
+Side navbar:
+![SideNavbar](./screenshots/IMG_0147.PNG)
 
 ## How React Native works
 
@@ -42,6 +60,7 @@ The focus of React Native is on developer efficiency across all the platforms yo
 Make sure you have Node v6 or later installed. No Xcode or Android Studio installation is required.
 
 ```sh
+$ npm install
 $ npm install -g expo-cli
 $ npm start
 ```
