@@ -3,6 +3,7 @@
 > project repo for iPlay Servers app 
 
 ## User Stories:
+
 * As a user, I want to be able to sign up.
 * As a user, I want to be able to sign in.
 * As a user, I want to be able to launch a new Minecraft PE server (instant).
@@ -13,10 +14,11 @@
 * As a user, I want to be able to adjust custom player slots.
 
 ## Navigation Sections:
-User Account
-Server Status
-Server Settings
-Plugins
+
+User Account<br>
+Server Status<br>
+Server Settings<br>
+Plugins<br>
 
 ## iPlay prototype V1
 
