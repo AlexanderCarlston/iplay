@@ -46,7 +46,7 @@ Password Recovery:
 <img src="./screenshots/IMG_0145.PNG" width="300">
 <img src="./screenshots/IMG_0151.PNG" width="300">
 <br>
-Dashboard:
+Dashboard: (Fill in sections, not actual sections.)
 <br>
 <img src="./screenshots/IMG_0141.PNG" width="300">
 <img src="./screenshots/IMG_0148.PNG" width="300">
