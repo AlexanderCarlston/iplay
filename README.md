@@ -24,7 +24,7 @@ Plugins<br>
 
 > The colors are easily changable, and the assets will be different.
 
-### Auth flow:
+Auth flow:
 ![Auth](./screenshots/auth_flow.png)
 <br>
 Loading:
@@ -46,7 +46,7 @@ Password Recovery:
 <img src="./screenshots/IMG_0145.PNG" width="300">
 <img src="./screenshots/IMG_0151.PNG" width="300">
 <br>
-Dashboard: (Fill in sections, not actual sections.)
+Dashboard:
 <br>
 <img src="./screenshots/IMG_0141.PNG" width="300">
 <img src="./screenshots/IMG_0148.PNG" width="300">
