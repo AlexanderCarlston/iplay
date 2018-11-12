@@ -39,14 +39,17 @@ Log in:
 Sign up:
 <br>
 <img src="./screenshots/IMG_0144.PNG" width="300">
+<img src="./screenshots/IMG_0150.PNG" width="300">
 <br>
 Password Recovery:
 <br>
 <img src="./screenshots/IMG_0145.PNG" width="300">
+<img src="./screenshots/IMG_0151.PNG" width="300">
 <br>
 Dashboard:
 <br>
 <img src="./screenshots/IMG_0141.PNG" width="300">
+<img src="./screenshots/IMG_0148.PNG" width="300">
 <br>
 These are the sections I think we will need, will need more:
 <br>
@@ -58,6 +61,7 @@ Plugins<br>
 Side navbar:
 <br>
 <img src="./screenshots/IMG_0147.PNG" width="300">
+<img src="./screenshots/IMG_0152.PNG" width="300">
 
 ## How React Native works
 
