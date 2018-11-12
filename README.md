@@ -34,6 +34,7 @@ Loading:
 Log in:
 <br>
 <img src="./screenshots/IMG_0143.PNG" width="300">
+<img src="./screenshots/IMG_0149.PNG" width="300">
 <br>
 Sign up:
 <br>
