@@ -24,7 +24,7 @@ Plugins<br>
 
 > The colors are easily changable, and the assets will be different.
 
-Auth flow:
+### Auth flow:
 ![Auth](./screenshots/auth_flow.png)
 <br>
 Loading:
