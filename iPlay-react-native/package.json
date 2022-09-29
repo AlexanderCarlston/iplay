@@ -26,7 +26,7 @@
     "react-native-switch-pro": "0.4.6",
     "react-native-ui-kitten": "3.0.1",
     "react-navigation": "2.11.2",
-    "victory-native": "0.15.0"
+    "victory-native": "36.6.8"
   },
   "devDependencies": {
     "babel-eslint": "8.2.2",
